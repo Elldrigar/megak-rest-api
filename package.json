@@ -1,0 +1,16 @@
+{
+  "name": "03_rest_api_megak",
+  "version": "0.0.1",
+  "description": "rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "megak",
+    "api",
+    "rest"
+  ],
+  "author": "Artur Gawron",
+  "license": "ISC"
+}
